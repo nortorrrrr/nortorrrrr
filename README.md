@@ -33,21 +33,53 @@ Blending design, creativity, and code 💡
 ## 🛠 Creative Toolbox
 
 ### 💻 Languages
-![C](https://img.shields.io/badge/-C-3A3A3A?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-5A5A5A?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-6A6A6A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-8A8A8A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-4A4A4A?style=flat&logo=html5)
+
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=c" width="50"/>
+</a>
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" width="50"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" width="50"/>
+</a>
+</p>
 
 ### 🎨 Design & Development Tools
-![CSS](https://img.shields.io/badge/-CSS3-B565A7?style=flat&logo=css3)
-![VSCode](https://img.shields.io/badge/-VS%20Code-6C63FF?style=flat&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/-Figma-FF6F91?style=flat&logo=figma)
-![Git](https://img.shields.io/badge/-Git-FF9671?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-FFB347?style=flat&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-FF6F61?style=flat&logo=postman)
-![React](https://img.shields.io/badge/-React-00C9A7?style=flat&logo=react)
-![Vercel](https://img.shields.io/badge/-Vercel-4D4D4D?style=flat&logo=vercel)
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" width="50"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+</a>
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=figma" width="50"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+</a>
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postman" width="50"/>
+</a>
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" width="50"/>
+</a>
+<a href="https://vercel.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vercel" width="50"/>
+</a>
+</p>
 
 ---
 

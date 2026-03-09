@@ -37,12 +37,17 @@ Blending design, creativity, and code 💡
 ![C++](https://img.shields.io/badge/-C++-5A5A5A?style=flat&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-6A6A6A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-8A8A8A?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML5-4A4A4A?style=flat&logo=html5)
 
 ### 🎨 Design & Development Tools
 ![CSS](https://img.shields.io/badge/-CSS3-B565A7?style=flat&logo=css3)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-6C63FF?style=flat&logo=visualstudiocode)
 ![Figma](https://img.shields.io/badge/-Figma-FF6F91?style=flat&logo=figma)
 ![Git](https://img.shields.io/badge/-Git-FF9671?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-FFB347?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-FF6F61?style=flat&logo=postman)
+![React](https://img.shields.io/badge/-React-00C9A7?style=flat&logo=react)
+![Vercel](https://img.shields.io/badge/-Vercel-4D4D4D?style=flat&logo=vercel)
 
 ---
 
